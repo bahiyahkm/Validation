@@ -1,0 +1,7 @@
+C:\Texol Programs\.Net Programs\Validation\Validation\obj\Debug\Validation.csprojAssemblyReference.cache
+C:\Texol Programs\.Net Programs\Validation\Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+C:\Texol Programs\.Net Programs\Validation\Validation\bin\Debug\Validation.dll.config
+C:\Texol Programs\.Net Programs\Validation\Validation\bin\Debug\Validation.dll
+C:\Texol Programs\.Net Programs\Validation\Validation\bin\Debug\Validation.pdb
+C:\Texol Programs\.Net Programs\Validation\Validation\obj\Debug\Validation.dll
+C:\Texol Programs\.Net Programs\Validation\Validation\obj\Debug\Validation.pdb

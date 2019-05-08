@@ -1,0 +1,14 @@
+C:\Texol Programs\.Net Programs\Validation two\Validation two\bin\Debug\Validation two.exe.config
+C:\Texol Programs\.Net Programs\Validation two\Validation two\bin\Debug\Validation two.exe
+C:\Texol Programs\.Net Programs\Validation two\Validation two\bin\Debug\Validation two.pdb
+C:\Texol Programs\.Net Programs\Validation two\Validation two\bin\Debug\Validation.dll
+C:\Texol Programs\.Net Programs\Validation two\Validation two\bin\Debug\Validation.pdb
+C:\Texol Programs\.Net Programs\Validation two\Validation two\bin\Debug\Validation.dll.config
+C:\Texol Programs\.Net Programs\Validation two\Validation two\obj\Debug\Validation two.csprojAssemblyReference.cache
+C:\Texol Programs\.Net Programs\Validation two\Validation two\obj\Debug\Validation_two.Form1.resources
+C:\Texol Programs\.Net Programs\Validation two\Validation two\obj\Debug\Validation_two.Properties.Resources.resources
+C:\Texol Programs\.Net Programs\Validation two\Validation two\obj\Debug\Validation two.csproj.GenerateResource.cache
+C:\Texol Programs\.Net Programs\Validation two\Validation two\obj\Debug\Validation two.csproj.CoreCompileInputs.cache
+C:\Texol Programs\.Net Programs\Validation two\Validation two\obj\Debug\Validation two.csproj.CopyComplete
+C:\Texol Programs\.Net Programs\Validation two\Validation two\obj\Debug\Validation two.exe
+C:\Texol Programs\.Net Programs\Validation two\Validation two\obj\Debug\Validation two.pdb
